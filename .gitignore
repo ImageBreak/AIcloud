@@ -46,3 +46,7 @@ reports/
 output/
 # vscode
 .vscode/
+
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
